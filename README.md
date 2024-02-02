@@ -1,6 +1,29 @@
 <h1 align="center">Hi 👋, I'm SUJAY KUMAR N</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+```
+const developer = {
+  name: "Sujay Kumar N.",
+  skills: {
+    languages: ["JavaScript", "Typescript"],
+    frontend: {
+      js: ["React", "Angular"],
+      css: ["SASS","Tailwind CSS"]
+    },
+    backend: {
+      js: ["NodeJS", "ExpressJS"],
+      databases: ["MongoDB", "MySQL","MSSQL","PostgreSQL"],
+      serverless: ["GCP","aws-lambda"],
+      misc: ["Firebase", "AWS"]
+    },
+    devOps:["Docker", "Kubernetes","AWS SDK"]
+  },
+  background: ["Full-time - MERN Stack", "Now - WIPRO", "Software Engineer"],
+  hobbies: ["Exploring new technologies", "Playing cricket", "Traveling"]
+}
+```
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1sujay1&label=Profile%20views&color=0e75b6&style=flat" alt="1sujay1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1sujay1" alt="1sujay1" /></a> </p>
