@@ -7,7 +7,7 @@ const developer = {
   skills: {
     languages: ["JavaScript", "Typescript"],
     frontend: {
-      js: ["React", "Angular"],
+      js: ["React", "Angular", "Next"],
       css: ["SASS","Tailwind CSS"]
     },
     backend: {
